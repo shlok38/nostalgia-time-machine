@@ -194,4 +194,4 @@ For support, email masanishlok@gmail.com or create an issue in the repository.
 
 ---
 
-**Made with ❤️ for nostalgia lovers everywhere**
+
